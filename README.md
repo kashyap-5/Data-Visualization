@@ -33,7 +33,7 @@ README.md: Project documentation.
 
 Installation
 1.Clone the repository:
-    git clone https://github.com/yourusername/multi-page-dash-plotly-app.git
+    git clone https://github.com/kashyap-5/multi-page-dash-plotly-app.git
     cd multi-page-dash-plotly-app
 2.Create a virtual environment:
     python -m venv venv
